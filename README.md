@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Github status](https://github-readme-stats.vercel.app/api?username=aszx4510&show_icons=true&theme=solarized-light)
+
+![Vistor count](https://komarev.com/ghpvc/?username=aszx4510)
+
 <!--
 **aszx4510/aszx4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
