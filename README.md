@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github status](https://github-readme-stats.vercel.app/api?username=aszx4510&show_icons=true&theme=solarized-light)
+![Github status](https://github-readme-stats.vercel.app/api?username=aszx4510&show_icons=true&theme=buefy)
 
 ![Vistor count](https://komarev.com/ghpvc/?username=aszx4510)
 
