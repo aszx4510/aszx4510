@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=aszx4510&show_icons=true&theme=buefy)
+![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=aszx4510&hide=html)
 
 ![Vistor count](https://komarev.com/ghpvc/?username=aszx4510)
 
